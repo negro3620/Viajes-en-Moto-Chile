@@ -1,0 +1,46 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 500;
+}
+
+nav.navbar {
+  background-color: #000000; 
+  
+}
+
+nav.navbar ul.nav li {
+  
+  color: #efb810;
+}
+
+nav.navbar a {
+  color: #FFFFFF;
+}
+
+.btn-dark {
+  background-color: #efb810;
+  color: #FFFFFF;
+
+} 
+
+.bg-black {
+  background-color: #efb810;
+  color: #000000;
+
+} 
+
+.titulo {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+
+
+.titulocontacto {
+    color: #efb810;
+  }
+  .cambiante {
+    color: #777673;
+  }
+
